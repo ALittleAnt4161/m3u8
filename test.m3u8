@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
+http://premium-iptv.cpltvdm.me:80/play/live.php?mac=00:1a:79:64:37:6b&stream=221463&extension=ts
