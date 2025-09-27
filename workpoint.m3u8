@@ -1,13 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:7
 #EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="origin",NAME="mp4a.40.2",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="ko",URI="https://global-media.sooplive.com/live/audio/workpoint/origin/playlist.m3u8"
-#EXT-X-STREAM-INF:BANDWIDTH=4500000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080,AUDIO="origin"
-https://global-media.sooplive.com/live/video/workpoint/1920x1080/playlist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=4000000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,AUDIO="origin"
-https://global-media.sooplive.com/live/video/workpoint/1280x720/playlist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=960x540,AUDIO="origin"
-https://global-media.sooplive.com/live/video/workpoint/960x540/playlist.m3u8
-
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="origin",NAME="mp4a.40.2",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="ko",URI="https://global-media-cdn.sooplive.com/a6d36404-e23a-4639-8661-fe10af6e8596/workpoint/69nSHqTP2wUXG0IYbrPjRkYIMmg_rbAUiXa0YrbtIYtrPjSKuLxd1f75Lg6U-CYjoMmGgMUfr4SGwhnrmR7flw==/audio/origin/playlist_0_ee2ad80.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,CODECS="avc1.4d4028",RESOLUTION=1920x1080,AUDIO="origin"
+https://global-media-cdn.sooplive.com/a6d36404-e23a-4639-8661-fe10af6e8596/workpoint/69nSHqTP2wUXG0IYbrPjRkYIMmg_rbAUiXa0YrbtIYtrPjSKuLxd1f75Lg6U-CYjoMmGgMUfr4SGwhnrmR7flw==/video/1920x1080/playlist_0_ee2ad80.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4000000,CODECS="avc1.4d401f",RESOLUTION=1280x720,AUDIO="origin"
+https://global-media-cdn.sooplive.com/a6d36404-e23a-4639-8661-fe10af6e8596/workpoint/69nSHqTP2wUXG0IYbrPjRkYIMmg_rbAUiXa0YrbtIYtrPjSKuLxd1f75Lg6U-CYjoMmGgMUfr4SGwhnrmR7flw==/video/1280x720/playlist_0_ee2ad80.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,CODECS="avc1.4d401f",RESOLUTION=960x540,AUDIO="origin"
+https://global-media-cdn.sooplive.com/a6d36404-e23a-4639-8661-fe10af6e8596/workpoint/69nSHqTP2wUXG0IYbrPjRkYIMmg_rbAUiXa0YrbtIYtrPjSKuLxd1f75Lg6U-CYjoMmGgMUfr4SGwhnrmR7flw==/video/960x540/playlist_0_ee2ad80.m3u8
 
 
