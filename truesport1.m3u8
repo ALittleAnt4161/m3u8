@@ -1,3 +1,4 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=3000000
-https://movieproxy.tawatchai250958.workers.dev/watch?id=truesporthd1
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2500000
+http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776200&extension=m3u8
